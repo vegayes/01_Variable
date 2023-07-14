@@ -33,6 +33,18 @@ public class MainRun {
 		 * 
 		 * 10. git push :: Local Repository에서 원격 저장소로 이동. 
 		 * 
+		 */
+		
+		/*[ github에서 받아오는 방법 ]
+		 * 1. 아무것도 없는 경우
+		 * 	  -> 폴더 만든 후 Open Git Bash here 함.
+		 *    -> 가져 올 project 링크 복사
+		 *    -> git clone "링크 " 
+		 *    
+		 * 2. 원격 Repository랑 연결된 상태
+		 *    -> git pull 
+		 *    -> git clone  
+		 *
 		 * 
 		 */
 	}
